@@ -8,7 +8,7 @@
   };
 </script>
 
-<h3>count is {count}</h3>
+<h3>count is 🔄 {count}</h3>
 <button on:click={increment}> Increment </button>
 
 <button on:click={decrement}> Decrement </button>
